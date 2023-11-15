@@ -1,0 +1,14 @@
+div{
+   padding-left: 20px;
+}
+.box{
+   margin: 30px;
+   height: 500px;
+   width: 300px;
+   overflow-wrap: break-word;
+}
+p{
+   overflow-wrap: break-word;
+   height: 10px;
+   width: 300px; 
+}
